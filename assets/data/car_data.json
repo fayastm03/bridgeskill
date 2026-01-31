@@ -1,0 +1,76 @@
+{
+  "brands": [
+    {
+      "id": 1,
+      "name": "Toyota",
+      "cars": [
+        {
+          "id": 101,
+          "model": "Corolla",
+          "year": 2020,
+          "price": 950000
+        },
+        {
+          "id": 102,
+          "model": "Camry",
+          "year": 2022,
+          "price": 1450000
+        },
+        {
+          "id": 103,
+          "model": "Fortuner",
+          "year": 2021,
+          "price": 3200000
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Hyundai",
+      "cars": [
+        {
+          "id": 201,
+          "model": "i20",
+          "year": 2019,
+          "price": 750000
+        },
+        {
+          "id": 202,
+          "model": "Creta",
+          "year": 2021,
+          "price": 1600000
+        },
+        {
+          "id": 203,
+          "model": "Verna",
+          "year": 2022,
+          "price": 1400000
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Honda",
+      "cars": [
+        {
+          "id": 301,
+          "model": "City",
+          "year": 2020,
+          "price": 1200000
+        },
+        {
+          "id": 302,
+          "model": "Amaze",
+          "year": 2019,
+          "price": 850000
+        },
+        {
+          "id": 303,
+          "model": "Civic",
+          "year": 2021,
+          "price": 1800000
+        }
+      ]
+    }
+  ]
+}
